@@ -40,7 +40,7 @@
     "lint": "packages/kyt-core/node_modules/.bin/eslint ./"
   },
   "dependencies": {
-    "babel-eslint": "7.1.1",
+    "babel-eslint": "10.1.0",
     "eslint": "3.19.0",
     "eslint-config-airbnb": "15.0.2",
     "eslint-config-kyt": "file:packages/eslint-config-kyt",
